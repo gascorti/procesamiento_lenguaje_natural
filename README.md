@@ -1,2 +1,2 @@
 # **Título del proyecto**
-!(imagenes/PNL.png)
+![PNL](imagenes/PNL.png)
