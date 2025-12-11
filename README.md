@@ -1,2 +1,2 @@
 # **Título del proyecto**
-!![Descripción de la imagen](imagenes/figura1.png)
+![Imagen 1](imagenes/figura1.png)
