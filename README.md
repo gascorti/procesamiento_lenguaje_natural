@@ -1,2 +1,2 @@
 # **Título del proyecto**
-![Imagen 1](Cluster 1.png)
+!![Descripción de la imagen](imagenes/figura1.png)
