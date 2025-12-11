@@ -15,3 +15,8 @@ Este repositorio reúne implementaciones, experimentos y notebooks educativos or
 **Requisitos principales**
 
 ![Requisitos](imagenes/requisitos.png)
+
+**Autor**
+
+Lic. Gastón Corti
+Especialización en Inteligencia Artificial – UBA
